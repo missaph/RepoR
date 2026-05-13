@@ -3,3 +3,5 @@ y<- 2.5
 s <-sum(x,y)
 prom<- s/2
 prom
+#chequeado y comprobado en github
+x > y 
